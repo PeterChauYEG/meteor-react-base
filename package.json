@@ -1,0 +1,40 @@
+{
+  "name": "meteor-react-material-ui-base",
+  "version": "1.0.0",
+  "description": "A starting point for Meteor (1.3.0), React (0.14.7) and Material-UI (0.14.4) web applications.",
+  "main": "index.html",
+  "scripts": {
+    "start-development": "meteor --port $IP:$PORT --settings settings-development.json",
+    "reset-development": "meteor reset",
+    "deploy-staging": "meteor deploy test.meteor.com --settings settings-development.json",
+    "reset-staging": "meteor deploy test.meteor.com --delete"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterChauYEG/meteorreactbase.git"
+  },
+  "author": "Laboratory One",
+  "license": "ISC",
+  "homepage": "https://github.com/PeterChauYEG/meteorreactbase.git#readme",
+  "dependencies": {
+    "material-ui": "^0.14.4",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-gist-embed": "0.0.3",
+    "react-helmet": "^2.3.1",
+    "react-mounter": "^1.0.0",
+    "react-tap-event-plugin": "^0.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.16.1"
+  },
+  "bugs": {
+    "url": "https://github.com/PeterChauYEG/meteorreactbase/issues"
+  },
+  "keywords": [
+    "meteor",
+    "react",
+    "material-ui"
+  ]
+}

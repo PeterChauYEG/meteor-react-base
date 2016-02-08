@@ -1,0 +1,47 @@
+// Sass
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+
+// Main
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #1a237e;
+  margin: 0;
+  min-height: 100vh;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.center-img {
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-bottom {
+    position: absolute !important;
+    bottom: 20px;
+    width: 100%;
+}
+
+.horizontal-center {
+    display: flex !important;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 100%;
+}
+
+.vertical-center {
+    display: flex !important;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+// Media Queries
+
+// An ok queries for iphone 6+ to desktop break
+@media (max-width: 768px) {
+
+}

@@ -1,0 +1,10 @@
+{
+  "public": {
+    "contactForm": {
+      "to": "email goes here"
+    }
+  },
+  "private": {
+    "email": "smtp://USERNAME:PASSWORD@HOST:PORT"
+  }
+}
