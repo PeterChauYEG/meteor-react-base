@@ -32,7 +32,7 @@ export const Home = React.createClass({
           <a href='https://facebook.github.io/react/'>{'React'}</a>
           {' (0.14.7) and '}
           <a href='http://www.material-ui.com/'>{'Material-UI'}</a>
-          {'web applications.'}</p>
+          {' web applications.'}</p>
         <RaisedButton
           style={styles.button}
           primary={true}
