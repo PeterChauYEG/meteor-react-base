@@ -38,7 +38,7 @@ export const Home = React.createClass({
           primary={true}
           label='Learn More'
           linkButton={true}
-          href='https://github.com/PeterChauYeg/meteor-react-base/tree/material-ui'
+          href='https://github.com/PeterChauYeg/meteor-react-base/'
         />
       </Paper>
     );

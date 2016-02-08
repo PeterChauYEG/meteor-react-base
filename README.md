@@ -1,7 +1,7 @@
 # A React + Meteor Base
 A starting point for [Meteor](https://www.meteor.com) (1.3.0), [React](https://facebook.github.io/react/) (0.14.7) and [Material-UI](http://www.material-ui.com/) (0.14.4) web applications.
 
-[Github](https://github.com/PeterChauYeg/meteor-react-base/tree/material-ui)
+[Github](https://github.com/PeterChauYeg/meteor-react-base/)
 
 ## How to use
 1. Clone this repo with `git pull https://github.com/PeterChauYEG/meteor-react-base.git material-ui` or with [c9 ide](https://c9.io/c/JVUChbVycba) (referral link)   

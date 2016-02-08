@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeterChauYEG/meteorreactbase.git"
+    "url": "git+https://github.com/PeterChauYEG/meteor-react-base.git"
   },
   "author": "Laboratory One",
   "license": "ISC",
-  "homepage": "https://github.com/PeterChauYEG/meteorreactbase.git#readme",
+  "homepage": "https://github.com/PeterChauYEG/meteor-react-base.git#readme",
   "dependencies": {
     "material-ui": "^0.14.4",
     "react": "^0.14.7",
@@ -31,7 +31,7 @@
     "eslint-plugin-react": "^3.16.1"
   },
   "bugs": {
-    "url": "https://github.com/PeterChauYEG/meteorreactbase/issues"
+    "url": "https://github.com/PeterChauYEG/meteor-react-base/issues"
   },
   "keywords": [
     "meteor",
