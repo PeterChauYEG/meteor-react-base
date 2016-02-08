@@ -9,13 +9,15 @@ A starting point for [Meteor](https://www.meteor.com) (1.3.0), [React](https://f
 3. Remove current git remote with `git remote remove origin`
 4. Add your git remotes with `git remote add origin https/github.com/you/your-repo.git`
 5. Set the email addresses which messages should go to and come from in `settings-production.json settings-development.json`
-6. Initalize npm with `npm init`
-7. Run with `npm run-script start-development`
-8. Generate favicons. I use [realfavicongenerator](http://realfavicongenerator.net)
-9. Edit `<head>` in `Layout.jsx`
-10. Set staging server in `package.json`
-11. Deploy to a staging server with `npm run-script deploy-staging`
-12. Make your initial commit with `git commit -m "inital commit"
+6. Set analytics in `settings-production.json`  
+7. Initalize npm with `npm init`
+8. Install npm packages with `npm install`
+9. Run with `npm run-script start-development`
+10. Generate favicons. I use [realfavicongenerator](http://realfavicongenerator.net)
+11. Edit `<head>` in `Layout.jsx`
+12. Set staging server in `package.json`
+13. Deploy to a staging server with `npm run-script deploy-staging`
+14. Make your initial commit with `git commit -m "inital commit"
 
 ## Notes
 -  Lint your `.js and .jsx` files with `eslint *.jsx`  
@@ -46,6 +48,7 @@ kadira:flow-router          2.10.1
 meteor-base                 1.1.11  
 mobile-experience           1.0.1  
 mongo                       1.1.4  
+okgrow:analytics            
 seba:minifiers-autoprefixer 0.0.2  
 session                     1.1.2   
 themeteorchef:bert          2.10   

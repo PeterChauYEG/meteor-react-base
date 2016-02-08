@@ -2,7 +2,20 @@
   "public": {
     "contactForm": {
       "to": "email goes here"
-    }
+    },
+    "analyticsSettings": {
+      "Google Analytics" : {"trackingId": "Your tracking ID"},
+      "Amplitude"        : {"apiKey": "..."},
+      "Chartbeat"        : {"uid": "..."},
+      "comScore"         : {"c2": "..."},
+      "HubSpot"          : {"portalId": "..."},
+      "Intercom"         : {"appId": "..."},
+      "Keen IO"          : {"projectId": "...", "writeKey": "..."},
+      "KISSmetrics"      : {"apiKey": "..."},
+      "Mixpanel"         : {"token":  "...", "people": true},
+      "Quantcast"        : {"pCode": "..."},
+      "Segment.io"       : {"apiKey": "..."}
+    }    
   },
   "private": {
     "email": "smtp://USERNAME:PASSWORD@HOST:PORT"

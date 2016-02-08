@@ -53,6 +53,7 @@ mongo@1.1.4-modules.5
 mongo-id@1.0.1
 npm-mongo@1.4.40-modules.5
 observe-sequence@1.0.8-modules.5
+okgrow:analytics@1.0.4
 ordered-dict@1.0.4
 promise@0.5.2-modules.5
 random@1.0.6-modules.5
