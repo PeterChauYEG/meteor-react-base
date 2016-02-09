@@ -13,9 +13,6 @@ const styles = {
   },
   button: {
     marginTop: '20px'
-  },
-  div: {
-    minHeight: '500px'
   }
 };
 
