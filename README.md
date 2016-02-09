@@ -4,7 +4,7 @@ A starting point for [Meteor](https://www.meteor.com) (1.3.0), [React](https://f
 [Github](https://github.com/PeterChauYeg/meteor-react-base/)
 
 ## How to use
-1. Clone this repo with `git pull https://github.com/PeterChauYEG/meteor-react-base.git material-ui` or with [c9 ide](https://c9.io/c/JVUChbVycba) (referral link)   
+1. Clone this repo with `git pull https://github.com/PeterChauYEG/meteor-react-base.git` or with [c9 ide](https://c9.io/c/JVUChbVycba) (referral link)   
 2. Edit `README.md`
 3. Remove current git remote with `git remote remove origin`
 4. Add your git remotes with `git remote add origin https/github.com/you/your-repo.git`
