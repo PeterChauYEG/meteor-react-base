@@ -39,7 +39,7 @@ export const Navigation = React.createClass({
     window.open('https://facebook.com');
   },
   handleGithub() {
-    window.open('https://github.com/PeterChauYeg/meteor-react-base/tree/material-ui');
+    window.open('https://github.com/PeterChauYeg/meteor-react-base');
   },
   handleTwitter() {
     window.open('https://twitter.com');
