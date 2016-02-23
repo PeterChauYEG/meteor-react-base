@@ -1,12 +1,12 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import ThemeManager from 'material-ui/lib/styles/theme-manager';
-import muiDarkTheme from './stylesheets/muiDarkTheme.js';
-import { Spacer } from './Spacer.jsx';
-import { Navigation } from './Navigation.jsx';
+import muiDarkTheme from '/client/stylesheets/muiDarkTheme.js';
+import Spacer from '/client/components/Spacer.jsx';
+import Navigation from '/client/components/Navigation.jsx';
 
 // define and export our Layout component
-export const Layout = React.createClass({
+export default Layout = React.createClass({
   propTypes: {
     content: React.PropTypes.object.isRequired
   },

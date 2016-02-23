@@ -5,7 +5,7 @@ const styles = {
 };
 
 // define and export our Layout component
-export const Spacer = React.createClass({
+export default Spacer = React.createClass({
   render() {
     return <div style={styles}></div>;
   },

@@ -1,5 +1,5 @@
 # A React + Meteor Base
-A starting point for [Meteor](https://www.meteor.com) (1.3.0), [React](https://facebook.github.io/react/) (0.14.7) and [Material-UI](http://www.material-ui.com/) (0.14.4) web applications.
+A starting point for [Meteor](https://www.meteor.com) (1.3-beta.11), [React](https://facebook.github.io/react/) (0.14.7) and [Material-UI](http://www.material-ui.com/) (0.14.4) web applications.
 
 [Github](https://github.com/PeterChauYeg/meteor-react-base/)
 
@@ -37,21 +37,22 @@ eslint                      1.10.3
 eslint-plugin-react         3.16.1   
 
 ## Meteor Packages:
-check                       1.1.1   
-ecmascript                  0.4.0  
-email                       1.0.9  
-es5-shim                    4.3.2  
+check                       1.1.1-beta.11   
+ecmascript                  0.4.0-beta.11  
+email                       1.0.9-beta.11  
+es5-shim                    4.3.2-beta.11  
 fortawesome:fontawesome     4.5.0  
 fourseven:scss              3.4.1   
-jquery                      1.11.5  
+jquery                      1.11.5-beta.11  
 kadira:flow-router          2.10.1  
-meteor-base                 1.1.11  
+meteor                      1.1.11-beta.11  
+meteor-base                 1.0.1  
 mobile-experience           1.0.1  
-mongo                       1.1.4  
-okgrow:analytics            
+mongo                       1.1.4-beta.11  
+okgrow:analytics            1.0.4  
 seba:minifiers-autoprefixer 0.0.2  
-session                     1.1.2   
+session                     1.1.2-beta.11   
 themeteorchef:bert          2.10   
-tracker                     1.0.10  
+tracker                     1.0.10-beta.11  
 
 **Laboratory One**

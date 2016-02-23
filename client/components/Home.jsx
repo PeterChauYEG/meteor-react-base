@@ -17,7 +17,7 @@ const styles = {
 };
 
 // define and export our Home component
-export const Home = React.createClass({
+export default Home = React.createClass({
   displayName: 'Home',
   render() {
     return (

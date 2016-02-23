@@ -1,8 +1,8 @@
 import React from 'react';
 import { mount } from 'react-mounter';
-import { Layout } from './Layout.jsx';
-import { Home } from './Home.jsx';
-import { Contact } from './Contact.jsx';
+import Layout from '/client/Layout.jsx';
+import Home from '/client/components/Home.jsx';
+import Contact from '/client/components/Contact.jsx';
 
 FlowRouter.route('/', {
   action() {

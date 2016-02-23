@@ -3,7 +3,7 @@ import AppBar from 'material-ui/lib/app-bar';
 import LeftNav from 'material-ui/lib/left-nav';
 import Avatar from 'material-ui/lib/avatar';
 import IconButton from 'material-ui/lib/icon-button';
-import { Spacer } from './Spacer.jsx';
+import Spacer from '/client/components/Spacer.jsx';
 import MenuItem from 'material-ui/lib/menus/menu-item';
 
 const styles = {
@@ -17,7 +17,7 @@ const styles = {
 };
 
 // define and export our Navigation component
-export const Navigation = React.createClass({
+export default Navigation = React.createClass({
   displayName: 'Navigation',
   getInitialState: () => { return { open: false }; },
   handleOpen() { this.setState({ open: true }); },

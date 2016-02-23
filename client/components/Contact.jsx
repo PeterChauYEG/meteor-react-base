@@ -20,7 +20,7 @@ const styles = {
 };
 
 // define and export our Contact component
-export const Contact = React.createClass({
+export default Contact = React.createClass({
   displayName: 'Contact',
   handleSubmit(event) {
     event.preventDefault();
