@@ -1,5 +1,5 @@
 # A React + Meteor Base
-A starting point for [Meteor](https://www.meteor.com) (1.3), [React](https://facebook.github.io/react/) (0.14.7) and [Material-UI](http://www.material-ui.com/) (0.14.4) web applications.
+A starting point for [Meteor](https://www.meteor.com) (1.3), [React](https://facebook.github.io/react/) (0.14.8) and [Material-UI](http://www.material-ui.com/) (0.14.4) web applications.
 
 [Github](https://github.com/PeterChauYeg/meteor-react-base/)
 

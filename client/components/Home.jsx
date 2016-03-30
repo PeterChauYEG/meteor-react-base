@@ -27,7 +27,7 @@ export default Home = React.createClass({
           <a href='https://www.meteor.com/'>{'Meteor'}</a>
           {' (1.3.0), '}
           <a href='https://facebook.github.io/react/'>{'React'}</a>
-          {' (0.14.7) and '}
+          {' (0.14.8) and '}
           <a href='http://www.material-ui.com/'>{'Material-UI'}</a>
           {' web applications.'}</p>
         <RaisedButton
